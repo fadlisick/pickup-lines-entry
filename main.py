@@ -9,7 +9,7 @@ import os
 import sys
 from pathlib import Path
 
-PICKUP = "Call me gradient descent: I fall for you a little more every step."
+PICKUP = "I must be quantized, because around you I lose precision and gain feelings."
 
 
 def output_folder():
